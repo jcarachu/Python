@@ -1,4 +1,5 @@
 # Compiled source #		
 .DS_Store
 .vscode
+.cache/
 venv
